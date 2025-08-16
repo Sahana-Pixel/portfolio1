@@ -60,15 +60,16 @@ export function Footer() {
 </div>
 
 {/* Views Counter */}
-<div className="flex justify-center mt-4">
-  <a href="https://hits.sh/portfolio-self-eight-16.vercel.app/" target="_blank" rel="noopener noreferrer">
+<div className="flex justify-center">
+  <a href="https://hits.sh/sahana-acharya.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://hits.sh/portfolio-self-eight-16.vercel.app.svg?style=for-the-badge&label=Views&color=2a6acf&labelColor=1f2937"
-      alt="Website Views"
-      className="rounded-lg shadow-md"
+      src="https://hits.sh/sahana-acharya.vercel.app.svg?style=for-the-badge&label=Views&color=2a6acf&labelColor=1f2937"
+      alt="Views"
+      className="rounded-lg"
     />
   </a>
 </div>
+
 
 
 
