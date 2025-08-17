@@ -44,7 +44,7 @@ export function ProjectCard({ title, description, image, link, github, techStack
                   href={github}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="p-2 rounded-full text-gray-600 dark:text-gray-300 hover:bg-blue-600 hover:text-white transition-colors duration-300"
+                  className="p-2 rounded-full text-gray-600 dark:text-gray-300 hover:bg-slate-800 hover:text-white transition-colors duration-300"
                 >
                   <SiGithub className="w-6 h-6" />
                 </a>
@@ -54,7 +54,7 @@ export function ProjectCard({ title, description, image, link, github, techStack
                   href={link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="p-2 rounded-full text-gray-600 dark:text-gray-300 hover:bg-blue-600 hover:text-white transition-colors duration-300"
+                  className="p-2 rounded-full text-gray-600 dark:text-gray-300 hover:bg-pink-600 hover:text-white transition-colors duration-300"
                 >
                   <FaGlobe className="w-6 h-6" />
                 </a>
@@ -85,7 +85,7 @@ export function ProjectCard({ title, description, image, link, github, techStack
               );
             })}
           </div>
-
+        
         </div>
       </div>
     </div>

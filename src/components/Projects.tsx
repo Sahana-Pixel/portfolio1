@@ -45,11 +45,12 @@ const projects = [
     description: 'A platform that connects you with trusted technicians for all your home service needs — from plumbing to electrical and beyond. No more searching through random contacts or overpaying strangers. Just reliable help, right when you need it',
     image: '/assets/fixmyhome.png',
     // link: '',
-    // github: '',
+    github: 'https://github.com/Sahana-Pixel/fixmyhome2',
     techStack: [
       techStacks.react,
       techStacks.tailwind,
       techStacks.typescript,
+      
       
 
     ],
@@ -58,6 +59,7 @@ const projects = [
     title: 'Learnloop',
 description: "LearnLoop is your all-in-one platform to find hackathon teams, connect with mentors, and study with peers. Whether you're preparing for competitions or learning together, it helps you collaborate, grow, and stay connected.",
     image: '/assets/studymode.png',
+    github:'https://github.com/Sahana-Pixel/learnloop',
     techStack: [
       techStacks.react,
       techStacks.typescript,
@@ -70,6 +72,7 @@ description: "LearnLoop is your all-in-one platform to find hackathon teams, con
     title: 'Streetdeal',
 description: "Streetdeal is a smart marketplace where suppliers bid with the best prices, and vendors team up to buy in bulk, saving more together. Streetdeal helps you cut costs, increase margins, and build stronger supplier connections.",
     image: '/assets/streetdeal.png',
+    github:'https://github.com/Sahana-Pixel/streetdeal',
     techStack: [
       techStacks.react,
       techStacks.typescript,

@@ -7,7 +7,7 @@ export function Leetcode() {
     <SectionBackground>
       <section id="leetcode">
         <div className="container mx-auto max-w-6xl px-8">
-          <SectionTitle subtitle="Between classes and coding, I somehow manage to solve some DSA problems">
+          <SectionTitle subtitle="From class notes to complexity analysis, DSA is where I level up daily.">
             Leetcode Progress
           </SectionTitle>
 
@@ -30,12 +30,12 @@ export function Leetcode() {
 
   <p className="text-center text-lg text-gray-700 dark:text-gray-300 mb-4">
     LeetCode started off as a curiosity and quickly turned into a daily challenge I look forward to. 
-    It’s not just about solving problems — it's about sharpening logic, building consistency, and pushing limits one question at a time.
+    It’s not just about solving problems it's about sharpening logic, building consistency, and pushing limits one question at a time.
   </p>
 
   <p className="text-center text-lg text-gray-700 dark:text-gray-300">
     From brute-force beginnings to optimized solutions, every problem teaches me something new. 
-    Whether it’s arrays, recursion, or DP — I treat each bug like a puzzle waiting to be cracked 💡.
+    Whether it’s arrays, recursion, or DP I treat each bug like a puzzle waiting to be cracked 💡.
   </p>
 
   {/* LeetCode Profile Button */}
@@ -44,7 +44,7 @@ export function Leetcode() {
       href="https://leetcode.com/sahana_pixel/"
       target="_blank"
       rel="noopener noreferrer"
-      className="flex items-center gap-2 bg-pink-600 text-white px-4 py-2 rounded-lg hover:bg-pink-700 hover:scale-105 transition-all"
+      className="flex items-center gap-2 bg-pink-800 text-white px-4 py-2 rounded-lg hover:bg-pink-700 hover:scale-105 transition-all"
     >
       <SiLeetcode className="w-5 h-5" /> View My LeetCode
     </a>

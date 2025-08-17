@@ -40,7 +40,10 @@ className="flex flex-col gap-6 text-center md:text-left order-2 md:order-1 w-ful
             Welcome to My World
           </div>
 
-<h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-snug flex flex-wrap items-center gap-2" > <span className="bg-clip-text text-transparent bg-gradient-to-r from-pink-700 via-pink-500 to-pink-400 animate-text-shine"> Hey there! </span> <span className="inline-block text-3xl" role="img" aria-label="woman technologist" > 👩‍💻 </span> <span className="bg-clip-text text-transparent bg-gradient-to-r from-pink-800 via-pink-500 to-pink-800"> I'm Sahana S Acharya </span> </h1>
+<h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold leading-snug flex flex-wrap items-center gap-2" > 
+  <span className="bg-clip-text text-transparent bg-gradient-to-r from-pink-600 via-pink-400 to-pink-500 animate-text-shine"> Hey there! </span> 
+  <span className="inline-block text-3xl" role="img" aria-label="woman technologist" > 👩‍💻 </span> 
+  <span className="bg-clip-text text-transparent bg-gradient-to-r from-pink-600 via-pink-400 to-pink-600"> I'm Sahana S Acharya </span> </h1>
 
 
 

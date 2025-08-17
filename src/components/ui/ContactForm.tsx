@@ -128,7 +128,7 @@ export function ContactForm() {
         type="submit"
         disabled={status === 'submitting'}
         className={`w-full py-3 px-6 rounded-lg flex items-center justify-center gap-2
-                   bg-pink-700 text-white hover:bg-pink-700 transition-transform duration-300 transform hover:scale-105`}
+                   bg-pink-800 text-white hover:bg-pink-700 transition-transform duration-300 transform hover:scale-105`}
       >
         {status === 'submitting' ? 'Sending...' : 'Send Message'}
         {status !== 'submitting' && <LuMessageSquareShare className="w-5 h-5" />}
